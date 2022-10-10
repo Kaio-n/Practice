@@ -7,5 +7,7 @@ int main ()
 
     cout << "\nNew function";
 
+    cout << "\nNew Line";
+
     return 0;
 }
